@@ -1,0 +1,5 @@
+# Claude Code local files
+.claude/
+
+# Development files
+mockup.html
